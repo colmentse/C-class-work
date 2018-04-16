@@ -1,0 +1,29 @@
+Colmen Tse
+1/30/18
+COMSC-110-8292
+Exercise 1.1
+
+The labels are “Raymond”, “Carmen”, “Dora”, “cousin”,“grandma”, “dog”.
+Ask my dad Raymond his age -- write it under the label "Raymond". 
+Ask my mom Carmen her age -- write it under the label "Carmen". 
+Write this new label on the paper: "sum".
+Add the numbers under the labels "Carmen" and "Raymond" -- write the result under the label "sum". 
+Ask my aunt Dora her age -- write it under the label "Dora".
+Add the numbers under the labels 'sum" and "Dora" -- write the result under the label "sum", 
+scratching out what I wrote there previously.
+Ask my cousin Kristie her age -- write it under the label "cousin".
+Add the numbers under the labels 'sum" and "cousin" -- write the result under the label "sum", scratching out what I wrote there previously.
+Ask my Carmen how old is the dog -- write it under the label "dog".
+Add the numbers under the labels "sum" and "dog" -- write the result under the label "sum", scratching out what I wrote there previously.
+Ask my grandma her age – write it under the label “grandma”
+Add the numbers under the labels 'sum" and "grandma" -- write the result under the label "sum", 
+scratching out what I wrote there previously.
+Write this new label on the paper: "avg".
+Using a calculator, divide the number under the label "sum" by 6 -- write the result under the label "avg".
+Write on a new piece of paper this label: "My family's age is " followed by the value written under the label "avg"
+
+Avg will be an integer and should be a whole number. “rounded to the nearest whole number” 
+
+
+
+
