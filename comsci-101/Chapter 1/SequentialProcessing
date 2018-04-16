@@ -1,0 +1,40 @@
+Colmen Tse
+1/30/18
+COMSC-110-8292
+Exercise 1.2
+
+10. The item labels are “i1”, “i2”, “i3”, “i4”, “i5”, “i6”, “i7, “i8”
+
+
+20. Ask the customer if they have exactly 8 items, if they don’t reject customer.
+
+30. Scan each item assign a new label to each new item one at a time
+
+40. Once each item has been scanned.
+
+50. Add all items label one at a time (sum + i3 = sum) Write the result under the label “sum”
+
+60. (i1 + i2 = sum)
+70. (sum + i3 = sum)
+80. (sum + i4 = sum)
+90. (sum + i5 = sum)
+100. (sum + i6 = sum)
+110. (sum + i7 = sum)
+120. (sum + i8 = sum)
+
+130. “sum” will have a rounded to the second decimal point 
+
+140. “tax” label is 9 percent “.09” because California sales tax is nine percent
+
+150. Multiply “sum“  times “tax”. (ie. “sum” x “tax” = “taxamt” Write the result under the label under “taxamt”
+
+160. Add “sum” + “taxamt” = “total”. Write the result under the label under “total”
+
+170. Your total is “total”
+
+ 
+
+
+
+
+
