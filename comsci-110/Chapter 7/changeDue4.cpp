@@ -64,30 +64,31 @@ int main()
 
 		int one = changeDue / 1;
 		changeDue = changeDue % 1;
-			while (true)
-			{
-		if (hundredThousands > 0) 
-			cout << " this many hundredThousands dollar bills: " << hundredThousands << endl;
-		if (tenThousands > 0) 
-			cout << " this many tenThousands dollar bills: " << tenThousands << endl; 
-		if (fiveThousands > 0) 
-			cout << " this many fiveThousands dollar bills: " << fiveThousands << endl; 
-		if (oneThousand > 0) 
-			cout << " this many oneThousand dollar bills: " << oneThousand << endl; 
-		if (fiveHundred > 0) 
-			cout << " this many fiveHundred dollar bills: " << fiveHundred << endl; 
-		if (oneHundred > 0)
-			cout << " this many oneHundred dollar bills: " << oneHundred << endl; 
-		if (twenty > 0)
-			cout << " this many twenty dollar bills: " << twenty << endl; 
-		if (ten > 0)
-			cout << " this many ten dollar bills: " << ten << endl; 
-		if (five > 0)
-			cout << " this many five dollar bills: " << five << endl; 
-		if (two > 0)
-			cout << " this many two dollar bills: " << two << endl; 
-		if (one > 0)
-		cout << " this many one dollar bills: " << one << endl; break;
+					
+		while (true)
+		{
+			if (hundredThousands > 0) 
+				cout << " this many hundredThousands dollar bills: " << hundredThousands << endl;
+			if (tenThousands > 0) 
+				cout << " this many tenThousands dollar bills: " << tenThousands << endl; 
+			if (fiveThousands > 0) 
+				cout << " this many fiveThousands dollar bills: " << fiveThousands << endl; 
+			if (oneThousand > 0) 
+				cout << " this many oneThousand dollar bills: " << oneThousand << endl; 
+			if (fiveHundred > 0) 
+				cout << " this many fiveHundred dollar bills: " << fiveHundred << endl; 
+			if (oneHundred > 0)
+				cout << " this many oneHundred dollar bills: " << oneHundred << endl; 
+			if (twenty > 0)
+				cout << " this many twenty dollar bills: " << twenty << endl; 
+			if (ten > 0)
+				cout << " this many ten dollar bills: " << ten << endl; 
+			if (five > 0)
+				cout << " this many five dollar bills: " << five << endl; 
+			if (two > 0)
+				cout << " this many two dollar bills: " << two << endl; 
+			if (one > 0)
+			cout << " this many one dollar bills: " << one << endl; break;
 		}
 	}
 }
